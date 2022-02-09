@@ -33,4 +33,9 @@
 * GIT CLONE
   * 
 
+## django
+* CREATE APP
+  * html 파일 연동시키기
+    * 404 에러가 발생함
+    * url 매치가 안되는것같음 삽질시작
 
